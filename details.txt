@@ -1,0 +1,28 @@
+
+/*------------------------------------------------ This Document describes details about DSC NUV Website-----------------------------------*/
+
+### DSC  NUV ###
+
+The moto of designging this website is for Developer Student Club of Navrachana University. 
+The website describes details of DSC Team of NUV and Programs which are created by them. 
+
+The website contains Events, Programs, Event Winners and Members of DSC NUV. Which is 
+created dynamically. 
+
+=> Connected Backend Programming Language: Python
+=> Backend Framework Used : Django
+=> Database used : SQL
+=> Database Management Framework : Postgresql 12
+
+### Admin Info ##
+
+=> Backend Database Update Tool: Django Admin
+=> Django Admin Superuser :
+      
+      =>Username:dscnuv
+      =>Password : dscnuv1234
+      
+=> Database Update Tool : Postgresql , pgAdmin4
+
+      =>Username : DSC NUV Team
+      =>Password : dscnuv1234
