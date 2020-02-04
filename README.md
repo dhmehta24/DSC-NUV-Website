@@ -2,7 +2,7 @@
 A Google DSC Website created with Django Backend.
 
 # About DSC Website
-The Website consists with Basic Frontend elements like HTML, CSS and Javascripts. Website backend is designed with Django Framework. This Website was made for 'Hack the Web' Competition conducted by DSC NUV for basic practice purposes only.
+The Website consists with Basic Frontend elements like HTML, CSS and Javascripts. Website backend is designed with Django Framework. This Website is made for 'Hack the Web' Competition conducted by DSC NUV for basic practice purposes only.
 
 ## Developers
 - Sagar Parmar (Design and Frontend)
