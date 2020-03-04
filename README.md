@@ -6,14 +6,14 @@ The Website consists with Basic Frontend elements like HTML, CSS and Javascripts
 
 ## Developers
 - Sagar Parmar (Design and Frontend)
-- Dhrumil Pandya (Design)
+- Dhrumil Pandya (Prototype)
 - Divyesh Mehta (Frontend and Backend)
 
 ## Requirements
 - Python3
 - Django 3.0.2
 - Postgresql with pgAdmin
-- psycopg2
+- psycopg2(A Python library to connect Postgres to Django Models)
 
 ## Instructions to Start Website
 
