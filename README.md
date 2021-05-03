@@ -6,7 +6,6 @@ The Website consists with Basic Frontend elements like HTML, CSS and Javascripts
 
 ## Developers
 - Sagar Parmar (Design and Frontend)
-- Dhrumil Pandya (Prototype)
 - Divyesh Mehta (Frontend and Backend)
 
 ## Requirements
